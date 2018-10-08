@@ -1,13 +1,13 @@
-#»ùÓÚvgg16µÄÃ¨¹·Í¼Ïñ¶ş·ÖÀà
+# åŸºäºvgg16çš„çŒ«ç‹—å›¾åƒäºŒåˆ†ç±»
 --------------------------------------
-##ÒÀÀµÏî
+## ä¾èµ–é¡¹
 cuda8, cudnn6, matlab2017b, matconvnet 
-##Êı¾İ¼¯
+## æ•°æ®é›†
 [kaggle][1]
-##ÑµÁ·
-ÔËĞĞ 
-##demo
-ÔËĞĞ catVSdogDEMO.m
+## è®­ç»ƒ
+è¿è¡Œ 
+## demo
+è¿è¡Œ catVSdogDEMO.m
 
 
 [1]:https://www.kaggle.com/tongpython/cat-and-dog
